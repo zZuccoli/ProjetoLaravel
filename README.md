@@ -30,7 +30,7 @@
         </div>
         <div class="video">
             <h1> Vídeo </h1>
-            <a href="https://drive.google.com/file/d/1r_2XenbJlMdzV3ryasK0r6FL5mxIMXrs/view?usp=sharing****" Video de demonstração </a>
+            <a href="https://drive.google.com/file/d/1r_2XenbJlMdzV3ryasK0r6FL5mxIMXrs/view?usp=sharing Video de demonstração </a>
         </div>
     </body>
 </html>
